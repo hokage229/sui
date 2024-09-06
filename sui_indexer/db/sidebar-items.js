@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["check_db_migration_consistency","get_pool_connection","new_connection_pool"],"mod":["__diesel_schema_migrations","setup_postgres"],"struct":["ConnectionConfig","ConnectionPoolConfig"],"type":["ConnectionPool","PoolConnection"]};
